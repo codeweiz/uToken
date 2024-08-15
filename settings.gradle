@@ -1,0 +1,3 @@
+rootProject.name = 'uToken'
+include 'utoken-core'
+include 'utoken-test'
